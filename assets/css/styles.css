@@ -632,7 +632,7 @@ img {
   content: '';
 }
 
-.seiper-portfolio-icon{
+.swiper-portfolio-icon{
   font-size: 2rem;
   color: var(--first-color);
 }
@@ -646,7 +646,7 @@ img {
 }
 
 .swiper-container-horizontal > .swiper-pagination-bullet{
-  bottom: -2.5rem;
+  bottom: -2rem;
 }
 
 .swiper-pagination-bullet-active{
