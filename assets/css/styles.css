@@ -419,8 +419,9 @@ img {
 }
 
 .about__buttons{
-    display: flex;
+    display: block;
     justify-content: center;
+    text-align: center;
 }
 /*==================== SKILLS ====================*/
 .skills__container{
